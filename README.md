@@ -67,25 +67,25 @@ dt.predict([[5,6]])
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](ss1.png)
 
 ## Information:
-[output 2](ss2.png)
+![output 2](ss2.png)
 
 ## Null Data:
-[output 3](ss3.png)
+![output 3](ss3.png)
 
 ## Transformed Head Data:
-[output 4](ss4.png)
+![output 4](ss4.png)
 
 ## X.Head():
-[output 5](ss5.png)
+![output 5](ss5.png)
 
 ## Mean Square Error:
-[output 6](ss6.png)
+![output 6](ss6.png)
 
 ## R2:
-[output 7](ss7.png)
+![output 7](ss7.png)
 
 ## Data Prediction:
-[output 8](ss8.png)
+![output 8](ss8.png)
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
